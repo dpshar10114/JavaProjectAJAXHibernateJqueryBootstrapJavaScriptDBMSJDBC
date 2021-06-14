@@ -1,0 +1,42 @@
+#container{
+    height: 540px;
+    width: 500px;
+    border: solid 5px rgb(228,120,37);
+    margin: auto;
+}
+
+img{
+    margin: 10px;
+}
+
+#main{
+    height: 400px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+}
+
+#main div{
+
+    margin-top:30px;
+    margin-left: 100px;
+
+}
+
+button{
+    margin-top: 30px;
+    margin-left: 270px;
+}
+
+#main_Thanks{
+    height: 400px;
+    width: 400px;
+    margin-top: 160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
